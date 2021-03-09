@@ -1,3 +1,6 @@
+# Ignore editor
+.idea/
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
