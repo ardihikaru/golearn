@@ -8,6 +8,8 @@
 - Add module requirements and sums: `go mod tidy`
 - `go install` Command will compile and stored the results into `~/go/bin/<here>` directory
 - While `go build` will compile it into binary a file and be stored in the same location with the original ***.go** file
+- Also, you can run any ***.go** file directly
+    - i.e. Running hello world: `go run code_examples/01_hello_world/main.go`
 
 ## Install Go codes using `go install` (compiled and copied into `~/go/bin/` directory)
 - Sample usage (Hello world)
